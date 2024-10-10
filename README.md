@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikkumartulo" alt="pratikkumartulo" /></a> </p>
 
-- 🌱 I’m currently learning **Threejs**
+- 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **Full stack web development**
 
